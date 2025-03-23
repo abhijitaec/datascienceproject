@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/udimy/MLOps/18-project/prac/datascienceproject/mlruns/0/a308a689fd1d407284705b558510b224/artifacts
+end_time: 1742708796980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a308a689fd1d407284705b558510b224
+run_name: skillful-shoat-382
+run_uuid: a308a689fd1d407284705b558510b224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742708782925
+status: 3
+tags: []
+user_id: admin
